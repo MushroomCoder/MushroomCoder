@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aryansirdesai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aryansirdesai" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aryan sirdesai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan sirdesai" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aryan-sirdesai-ab44451a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan sirdesai" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/aryan sirdesai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="aryan sirdesai" height="30" width="40" /></a>
 <a href="https://kaggle.com/aryan sirdesai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aryan sirdesai" height="30" width="40" /></a>
 <a href="https://fb.com/aryan sirdesai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aryan sirdesai" height="30" width="40" /></a>
