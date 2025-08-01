@@ -1,7 +1,7 @@
-![logo](https://github.com/MushroomCoder/MushroomCoder/blob/main/GitHub%20Banner.png?raw=true)
 
-<h1 align="center">Hi 👋, I'm Aryan Sirdesai</h1>
-<h3 align="center">A passionate Software Developer from India.</h3>
+
+<h1 align="center">Hi 👋, This is Aryan Sirdesai!</h1>
+<h3 align="center">A passionate Data Scientist aka SDE - AI/ML Engineer from India.</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
