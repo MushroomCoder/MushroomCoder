@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java Spring Boot, Android Development, Data Structures with Java, CyberSecurity**
 
-- 💬 Ask me about **Java, SQA, Testing, Android Studio,Data Science.**
+- 💬 Ask me about **Generative - AI, AI Agents, LLMs, ML, DNNs and Data Science.**
 
 - 📫 How to reach me **aryansirdesai@gmail.com**
 
